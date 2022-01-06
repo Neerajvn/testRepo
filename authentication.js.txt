@@ -1,4 +1,4 @@
-function(username,password){
+function(email,password){
 
 
 }
